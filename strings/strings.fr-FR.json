@@ -1503,7 +1503,7 @@
   "city_wind_power_desc": "Génère de l'électricité à partir du vent",
   "city_fission_power": "Réacteur à fission",
   "city_fission_power_desc": "Utilise la fission nucléaire pour produire de grandes quantités d'électricité",
-  "city_fission_power_effect": "-Uranium par seconde.",
+  "city_fission_power_effect": "-%0 Uranium par seconde.",
   "city_mass_driver": "Conducteur de masse",
   "city_mass_driver_desc": "Système de lancement électromagnétique",
   "city_mass_driver_effect": "-%0% Coût du pétrole et de l'hélium-3 dans le système stellaire %1.",
