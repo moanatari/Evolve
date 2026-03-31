@@ -1506,7 +1506,7 @@
   "city_fission_power_effect": "-%0 Uranium par seconde.",
   "city_mass_driver": "Conducteur de masse",
   "city_mass_driver_desc": "Système de lancement électromagnétique",
-  "city_mass_driver_effect": "-%0 Coût du pétrole et de l'hélium-3 dans le système stellaire %1.",
+  "city_mass_driver_effect": "-%0% Coût du pétrole et de l'hélium-3 dans le système stellaire %1.",
   "city_mass_driver_effect2": "Laboratoire exotique +%0 Connaissances maximales pour chaque %1.",
   "city_on": "ON",
   "city_off": "OFF",
